@@ -50,6 +50,8 @@ productosDistintos = consultar_productos_distintos()
 
 print(f"Los productos distintos entre ambos usuarios son {productosDistintos}")
 
+print (f"Los productos totales entre ambos usuarios son {productos1 + productos2}")
+
 
 
 
